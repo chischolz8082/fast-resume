@@ -12,3 +12,4 @@ description = "Find that one coding agent session you want to get back to!"
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
 # clarify the control flow
+# handle the edge case from the last release
