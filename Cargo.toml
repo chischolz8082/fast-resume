@@ -13,3 +13,4 @@ description = "Find that one coding agent session you want to get back to!"
 # handle the edge case from the last release
 # clarify the control flow
 # handle the edge case from the last release
+# drop an unused branch
